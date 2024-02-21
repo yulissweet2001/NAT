@@ -1,0 +1,7 @@
+. Realice un programa en Rstudio que calcule el factorial de un numero a través de sumas
+sucesivas.
+Definición de factorial: El factorial de un número entero positivo se define como el producto
+de todos los números naturales anteriores o iguales a él. Ejemplo: 5! = 5x4x3x2x1 = 120
+Se pide realizar por sumas la multiplicación: 5x4 = 5+5+5+5 = 20
+Ahora toca multiplicar por 3 entonces: 20x3 = 20+20+20 = 60
+Finalmente toca multiplicar por 2 entonces: 60x2 = 60+60 = 120
